@@ -7,6 +7,7 @@ Hi! I´m Fabián Zanotelli. Mi first touch in software development and technolog
 - 💬 Ask me about mobile app development, blockchain, technology and good music.
 - 📫 How to reach me: fabianzanotellioviedo@gmail.com
 - ⚡ Fun fact:  I like to play guitar, bass and train in the gym.
+- Spanish/English
 
 ### Personal project / Business
 
